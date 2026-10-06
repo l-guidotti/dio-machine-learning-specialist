@@ -1,0 +1,7 @@
+# Ferramentas opcionais para notebooks e experimentos futuros.
+# Os dois exemplos iniciais usam somente a biblioteca padrão do Python.
+jupyterlab
+numpy
+pandas
+matplotlib
+scikit-learn

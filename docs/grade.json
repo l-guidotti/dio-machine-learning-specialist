@@ -1,0 +1,480 @@
+{
+  "title": "Formação Machine Learning Specialist",
+  "source": "https://web.dio.me/track/formacao-machine-learning-specialist",
+  "consultedAt": "2026-10-06",
+  "advertisedHours": 92,
+  "advertisedCourses": 51,
+  "advertisedProjects": 7,
+  "advertisedCodeChallenges": 1,
+  "modules": [
+    {
+      "id": "01",
+      "title": "Introdução ao Machine Learning",
+      "directory": "01-introducao-machine-learning",
+      "activities": [
+        {
+          "title": "Apresentação da Formação Machine Learning Specialist",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Introdução ao Machine Learning",
+          "hours": 2,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Métodos de Machine Learning Bioinspirados",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Redes Neurais Artificiais",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Algoritmos Genéticos",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Algoritmos de SVM (Support Vector Machine)",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Classificação de Problemas: Explorando Datasets",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Materiais Complementares: Introdução ao Machine Learning",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Programação para Machine Learning",
+      "directory": "02-programacao-machine-learning",
+      "activities": [
+        {
+          "title": "Linguagens de Programação para Machine Learning",
+          "hours": 1,
+          "level": "Intermediário",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Python para Machine Learning na Prática",
+          "hours": 2,
+          "level": "Intermediário",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Scilab para Machine Learning",
+          "hours": 2,
+          "level": "Intermediário",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "R para Machine Learning",
+          "hours": 2,
+          "level": "Intermediário",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Conhecendo o Anaconda, TensorFlow e SciPy",
+          "hours": 1,
+          "level": "Intermediário",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Desafios Básicos: Programação para Machine Learning",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Desafio de código",
+          "completed": false
+        },
+        {
+          "title": "Introdução ao COLAB",
+          "hours": 2,
+          "level": "Intermediário",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Treinamento de Redes Neurais com Transfer Learning",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Desafio de projeto",
+          "completed": false
+        },
+        {
+          "title": "Materiais Complementares: Programação para Machine Learning",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Algoritmos de Treinamento em Machine Learning",
+      "directory": "03-algoritmos-treinamento",
+      "activities": [
+        {
+          "title": "Treinamento Não-Supervisionado em Machine Learning",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Treinamento Supervisionado para Machine Learning",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Aprendizado por Reforço em Machine Learning",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Algoritmos de Regressão para Machine Learning",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Extração de Features e Redução de Dimensionalidade em Dados",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Redução de Dimensionalidade em Imagens para Redes Neurais",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Desafio de projeto",
+          "completed": false
+        },
+        {
+          "title": "Materiais Complementares: Algoritmos de Treinamento em Machine Learning",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Teoria do Aprendizado Estatístico",
+      "directory": "04-aprendizado-estatistico",
+      "activities": [
+        {
+          "title": "Métodos de Validação de Treinamento",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Métodos de Otimização de Aprendizado",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Otimização de Modelos em Hiperparâmetros",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Modelos de Machine Learning: Métricas de Avaliação de Desempenho",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Cálculo de Métricas de Avaliação de Aprendizado",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Desafio de projeto",
+          "completed": false
+        },
+        {
+          "title": "Materiais Complementares: Teoria do Aprendizado Estatístico",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Fundamentos e Práticas de Deep Learning",
+      "directory": "05-fundamentos-deep-learning",
+      "activities": [
+        {
+          "title": "Tipos de Redes de Deep Learning",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Redes de Classificação para Deep Learning",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Redes de Detecção em Deep Learning",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Redes de Segmentação em Deep Learning",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Aplicações Práticas com Deep Learning",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Criação de Uma Base de Dados e Treinamento da Rede YOLO",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Desafio de projeto",
+          "completed": false
+        },
+        {
+          "title": "Materiais Complementares: Fundamentos e Práticas de Deep Learning",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Frameworks de Deep Learning",
+      "directory": "06-frameworks-deep-learning",
+      "activities": [
+        {
+          "title": "Introdução às Bibliotecas de Machine Learning",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Conhecendo as Bibliotecas Pandas e Scikit-Learn",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Frameworks para Machine Learning",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Desenvolvimento de Algoritmos no Keras",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Ambientes de Projetos Colaborativos de Machine Learning",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Criando um Sistema de Reconhecimento Facial do Zero",
+          "hours": 5,
+          "level": "Avançado",
+          "type": "Desafio de projeto",
+          "completed": false
+        },
+        {
+          "title": "Materiais Complementares: Frameworks de Deep Learning",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Processamento de Imagens com Machine Learning",
+      "directory": "07-processamento-imagens",
+      "activities": [
+        {
+          "title": "Introdução ao Processamento De Imagens Digitais",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Aplicações de Processamento De Imagens Digitais",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Métodos de Segmentação Com OpenCV",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Programando Com OpenCV: Abordagens práticas",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Algoritmos de Processamento de Imagens Digitais para Detecção de Bordas em Objetos 2D",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Filtros de Eliminação de ruídos em imagens digitais",
+          "hours": 2,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Criando um Sistema de Recomendação por Imagens Digitais",
+          "hours": 3,
+          "level": "Avançado",
+          "type": "Desafio de projeto",
+          "completed": false
+        },
+        {
+          "title": "Materiais Complementares: Processamento de Imagens com Machine Learning",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "Visão Computacional com Machine Learning",
+      "directory": "08-visao-computacional",
+      "activities": [
+        {
+          "title": "Introdução à Visão Computacional",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Algoritmos para Rastreamento de Objetos em Imagens",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Visão Computacional 3D e seus algoritmos",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Algoritmos para Processamento de Linguagem Natural",
+          "hours": 1,
+          "level": "Avançado",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Criando um sistema de assistência virtual do zero",
+          "hours": 3,
+          "level": "Avançado",
+          "type": "Desafio de projeto",
+          "completed": false
+        },
+        {
+          "title": "Materiais Complementares: Visão Computacional com Machine Learning",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        },
+        {
+          "title": "Avalie a Formação Machine Learning Specialist",
+          "hours": 1,
+          "level": "Básico",
+          "type": "Curso",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}

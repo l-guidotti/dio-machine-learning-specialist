@@ -1,0 +1,30 @@
+# Python e ambientes
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Dados, modelos e resultados locais
+dados/*
+!dados/README.md
+resultados/*
+!resultados/README.md
+*.h5
+*.hdf5
+*.keras
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.joblib
+
+# Arquivos locais
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
